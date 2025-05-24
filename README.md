@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gideon! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/chinazangideon/"> Software Engineer</a>, <a href="#">YouTuber</a></h1>
+<h1>Hi, I'm Gideon! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/chinazangideon/"> Software Engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
