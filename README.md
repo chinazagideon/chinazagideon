@@ -1,9 +1,34 @@
 <h1>Hi, I'm Gideon! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/chinazangideon/"> Software Engineer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+
+<h2>👽 My Skills:</h2>
+
+  - GoLang 
+  - PHP
+  - gRPC
+  - nodeJs
+  - Python
+
+
+<h2>👷🏾‍♂️ Tools:</h2>
+
+  - Docker / Kubernates
+  - Git Version Control
+  - CI/CD Pipeline
+    
+<h2>👨🏽‍🎓 Certification:</h2>  
+
+  - Computer Science (B.sc)
+  - ALX Africa (Software Engineering)
+
+<h2>👨🏽‍💻 Software Development Projects:</h2>
 
 - <b>PHP (Spiral Framework)</b>
-  - [ISO8583 Packer implementation (v.87)](https://github.com/chinazagideon/iso-packer-87)
+  - [ISO8583 Packer implementation (v.87) (Coming soon)](https://github.com/chinazagideon/iso-packer-87)
+  - <b>JWT Auth Implementation (Spiral Framework)</b>
+  - [Microservice auth on gRPC context endpoints (Coming soon)](https://github.com/chinazagideon/grpc-jwt)
+  - <b>Docker Image for Spiral Framework (gRPC Context)</b>
+  - [Docker Image](https://hub.docker.com/repository/docker/bill25concept/spiral-grpc-image-php)
 - <b>PHP (Laravel framework Applications)</b>
   - [Storyboard ](https://github.com/chinazagideon/storyboard/)
 - <b>NodeJs</b>
