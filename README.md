@@ -6,7 +6,7 @@
   - GoLang 
   - PHP
   - gRPC
-  - nodeJs
+  - nodeJs + TypeScript 
   - Python
 
 
@@ -19,7 +19,7 @@
 <h2>👨🏽‍🎓 Certification:</h2>  
 
   - Computer Science (B.sc)
-  - ALX Africa (Software Engineering)
+  - ALX Africa (Software Engineer)
 
 <h2>👨🏽‍💻 Software Development Projects:</h2>
 
