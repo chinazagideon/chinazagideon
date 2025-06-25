@@ -14,7 +14,7 @@
 ---
 
 <h2>About Me</h2>
-<p>I'm a Senior Backend Engineer dedicated to building innovative and impactful <strong>customer-centric solutions</strong>. I currently work at a Nigerian fintech startup revolutionizing affordable and secure payment solutions for Africa's underserved markets. My mission is deeply rooted in empowering financial inclusion across the continent.</p>
+<p>I'm a Senior Backend Engineer dedicated to building innovative and impactful customer-centric solutions. I currently work at a Nigerian fintech startup revolutionizing affordable and secure payment solutions for Africa's underserved markets. My mission is deeply rooted in empowering financial inclusion across the continent.</p>
 <!-- <p>My expertise lies in backend engineering and building scalable systems, where I methodically address complex challenges through practical implementation and robust architectural design. My passion stems from building solutions that help my community, family, and foster steady growth, aiming to contribute to a more inclusive economic future.</p>
  -->
 <br>
