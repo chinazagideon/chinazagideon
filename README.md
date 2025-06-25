@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://placehold.co/150x150/e0e0e0/ffffff?text=Your+Avatar" alt="Your GitHub Avatar" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+<!--   <img src="https://placehold.co/150x150/e0e0e0/ffffff?text=Your+Avatar" alt="Your GitHub Avatar" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
   <h1>Hi there 👋, I'm Chinaza Gideon</h1>
   <h3>Senior Backend Engineer | Aspiring Solution Architect</h3>
   <p>Building impactful, scalable, and customer-centric solutions for a more inclusive Africa.</p>
-  <br>
+  <br> -->
   <!-- Optional: Add a short, impactful badge or social links here too -->
   <a href="https://www.linkedin.com/in/chinazangideon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="chinazangideon.com" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=chrome&logoColor=white" alt="website"></a>
@@ -14,8 +14,8 @@
 
 <h2>🚀 About Me</h2>
 <p>I'm a Senior Backend Engineer dedicated to building innovative and impactful <strong>customer-centric solutions</strong>. I currently work at a Nigerian fintech startup revolutionizing affordable and secure payment solutions for Africa's underserved markets. My mission is deeply rooted in empowering financial inclusion across the continent.</p>
-<p>My expertise lies in backend engineering and building scalable systems, where I methodically address complex challenges through practical implementation and robust architectural design. My passion stems from building solutions that help my community, family, and foster steady growth, aiming to contribute to a more inclusive economic future.</p>
-
+<!-- <p>My expertise lies in backend engineering and building scalable systems, where I methodically address complex challenges through practical implementation and robust architectural design. My passion stems from building solutions that help my community, family, and foster steady growth, aiming to contribute to a more inclusive economic future.</p>
+ -->
 <br>
 
 <h2>🌍 My Vision & Goals</h2>
