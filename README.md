@@ -8,9 +8,9 @@
 <!--   <a href="https://www.linkedin.com/in/chinazangideon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="chinazangideon.com" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=chrome&logoColor=white" alt="website"></a>
   <a href="mailto:hello@chinazangideon.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://x.com/ngwug" target="_blank"><img src="https://img.shields.io/badge/x-324845?style=for-the-badge&logo=x&logoColor=white" alt="x"></a>
-</div>-->
- ---
+  <a href="https://x.com/ngwug" target="_blank"><img src="https://img.shields.io/badge/x-324845?style=for-the-badge&logo=x&logoColor=white" alt="x"></a> -->
+</div>
+<!--  --- -->
 
 <h2>About Me</h2>
 <p>I'm a Senior Backend Engineer dedicated to building innovative and impactful customer-centric solutions. I currently work at a Nigerian fintech startup revolutionizing affordable and secure payment solutions for Africa's underserved markets. My mission is deeply rooted in empowering financial inclusion across the continent.</p>
