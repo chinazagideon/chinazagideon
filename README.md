@@ -10,12 +10,9 @@
   <a href="mailto:hello@chinazangideon.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://x.com/ngwug" target="_blank"><img src="https://img.shields.io/badge/x-324845?style=for-the-badge&logo=x&logoColor=white" alt="x"></a> -->
 </div>
-<!--  --- -->
 
 <h2>About Me</h2>
 <p>I'm a Senior Backend Engineer dedicated to building innovative and impactful customer-centric solutions. I currently work at a Nigerian fintech startup revolutionizing affordable and secure payment solutions for Africa's underserved markets. My mission is deeply rooted in empowering financial inclusion across the continent.</p>
-<!-- <p>My expertise lies in backend engineering and building scalable systems, where I methodically address complex challenges through practical implementation and robust architectural design. My passion stems from building solutions that help my community, family, and foster steady growth, aiming to contribute to a more inclusive economic future.</p>
- -->
 <br>
 
 <h2>My Vision & Goals</h2>
@@ -43,7 +40,6 @@
   <code><img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></code>
   <code><img height="25" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"></code>
   <code><img height="25" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></code>
-  <!-- Feel free to add more relevant technologies here, e.g., cloud platforms (AWS, GCP, Azure), CI/CD tools, message brokers, etc. -->
 </p>
 
 <br>
@@ -59,8 +55,7 @@
 
 <br>
 
-<h2>📈 GitHub Stats</h2>
-<!-- Replace [YOUR_GITHUB_USERNAME] with your actual GitHub username -->
+<h2> GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chinazagideon&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Chinaza Gideon's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinazagideon&layout=compact&theme=radical" alt="Chinaza Gideon's Top Languages"/>
@@ -76,7 +71,6 @@
   <a href="chinazangideon.com" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=chrome&logoColor=white" alt="website"></a>
   <a href="mailto:hello@chinazangideon.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://x.com/ngwug" target="_blank"><img src="https://img.shields.io/badge/x-324845?style=for-the-badge&logo=x&logoColor=white" alt="x"></a>
-  <!-- Add other relevant social links like Twitter/X, Personal Website/Blog -->
 </p>
 
 ---
