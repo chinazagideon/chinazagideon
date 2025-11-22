@@ -1,17 +1,6 @@
-<img width="3082" height="3042" alt="Mermaid Chart - Create complex, visual diagrams with text -2025-11-22-105527" src="https://github.com/user-attachments/assets/d184ddaf-eb3e-4a1b-97e8-26347bf5e66c" /><div align="center">
-<!--   <img src="https://placehold.co/150x150/e0e0e0/ffffff?text=Your+Avatar" alt="Your GitHub Avatar" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
-  <h1>Hi there 👋, I'm Chinaza Gideon</h1>
-  <h3>Senior Backend Engineer | Aspiring Solution Architect</h3>
-  <p>Building impactful, scalable, and customer-centric solutions for a more inclusive Africa.</p>
-  <br> -->
-  <!-- Optional: Add a short, impactful badge or social links here too -->
-<!--   <a href="https://www.linkedin.com/in/chinazangideon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="chinazangideon.com" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=chrome&logoColor=white" alt="website"></a>
-  <a href="mailto:hello@chinazangideon.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://x.com/ngwug" target="_blank"><img src="https://img.shields.io/badge/x-324845?style=for-the-badge&logo=x&logoColor=white" alt="x"></a> -->
-</div>
 
 <h2>About Me</h2>
+<h1>Hi there 👋, I'm Chinaza Gideon</h1>
 <p>I'm a Senior Backend Engineer dedicated to building innovative and impactful customer-centric solutions. I currently work at a Nigerian fintech startup revolutionizing affordable and secure payment solutions for Africa's underserved markets. My mission is deeply rooted in empowering financial inclusion across the continent.</p>
 <br>
 
