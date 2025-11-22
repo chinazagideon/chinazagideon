@@ -1,7 +1,5 @@
-
-<h2>About Me</h2>
 <h1>Hi there 👋, I'm Chinaza Gideon</h1>
-<p>I'm a Senior Backend Engineer dedicated to building innovative and impactful customer-centric solutions. I currently work at a Nigerian fintech startup revolutionizing affordable and secure payment solutions for Africa's underserved markets. My mission is deeply rooted in empowering financial inclusion across the continent.</p>
+<p>I'm a Senior Backend Engineer dedicated to building innovative and impactful customer-centric solutions. I worked at a Nigerian fintech startup revolutionizing affordable and secure payment solutions for Africa's underserved markets, currently open for exploring new opportunities. My mission is deeply rooted in empowering financial inclusion across the continent.</p>
 <br>
 
 <h2>My Vision & Goals</h2>
