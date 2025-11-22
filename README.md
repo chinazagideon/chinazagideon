@@ -1,4 +1,4 @@
-<div align="center">
+<img width="3082" height="3042" alt="Mermaid Chart - Create complex, visual diagrams with text -2025-11-22-105527" src="https://github.com/user-attachments/assets/d184ddaf-eb3e-4a1b-97e8-26347bf5e66c" /><div align="center">
 <!--   <img src="https://placehold.co/150x150/e0e0e0/ffffff?text=Your+Avatar" alt="Your GitHub Avatar" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
   <h1>Hi there 👋, I'm Chinaza Gideon</h1>
   <h3>Senior Backend Engineer | Aspiring Solution Architect</h3>
@@ -25,6 +25,11 @@
 </ul>
 
 <br>
+<h2>A multi-tenent </h2>
+<p>End-to-End Security & Architecture: Secured a robust, event-driven payment microservices system via a Next.js client application that utilizes API key middleware for resource authorization and tenant isolation., multi-tenancy enforced by unique API key validation, tightly coupled with a high-availability event-driven microservices backend.</p>
+
+<img width="3082" height="3042" alt="Mermaid Chart" src="https://github.com/user-attachments/assets/42139206-4c00-4198-9be6-c9aa4a37e135" />
+
 
 <h2>My Core Tech Stack</h2>
 <p>I leverage a diverse set of technologies to build powerful solutions:</p>
