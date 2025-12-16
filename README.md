@@ -17,7 +17,7 @@
 <h5>Multi Tenant Application and Rest API backend</h5>
 <p>Secured a robust, event-driven payment microservices system via a Next.js client application that utilizes API key middleware for resource authorization and tenant isolation, multi-tenancy enforced by unique API key validation, tightly coupled with a high-availability event-driven microservices backend.</p>
 
-<img width="3082" height="3042" alt="Mermaid Chart" src="https://github.com/user-attachments/assets/42139206-4c00-4198-9be6-c9aa4a37e135" />
+<!-- <img width="3082" height="3042" alt="Mermaid Chart" src="https://github.com/user-attachments/assets/42139206-4c00-4198-9be6-c9aa4a37e135" /> -->
 
 
 <h2>My Core Tech Stack</h2>
