@@ -49,14 +49,6 @@
 
 <br>
 
-<h2> GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinazagideon&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Chinaza Gideon's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinazagideon&layout=compact&theme=radical" alt="Chinaza Gideon's Top Languages"/>
-</p>
-
-<br>
-
 <h2>Let's Connect!</h2>
 <p>Feel free to reach out to discuss or just to say hello!</p>
 <p>My email: hello@chinazangideon.com</p>
