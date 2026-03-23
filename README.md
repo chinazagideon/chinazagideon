@@ -1,21 +1,26 @@
-<h1>Hi there 👋, I'm Chinaza Gideon</h1>
-<p>I'm a Senior Backend Engineer dedicated to building innovative and impactful customer-centric solutions. I worked at a Nigerian fintech startup revolutionizing affordable and secure payment solutions for Africa's underserved markets, currently open for exploring new opportunities. My mission is deeply rooted in empowering financial inclusion across the continent.</p>
-<br>
-
-<h2>My Vision & Goals</h2>
-<p>I aim to be a <strong>Solution Architect</strong>. I envision an Africa where fintech infrastructure is as robust, secure, and innovative as that found in Silicon Valley. To achieve this, I am dedicated to:</p>
-<ul>
-  <li>Architecting highly scalable, resilient, and secure transactional systems.</li>
-  <li>Championing financial inclusion through cutting-edge technology.</li>
-  <li>Pioneering AI/ML integrations to reduce fraud in low-bandwidth regions.</li>
-  <li>Growing as a Principal Engineer, mentoring teams on building scalable fintech systems.</li>
-</ul>
+<h1>Hi there, I'm Gideon</h1>
+<p>
+ I build full-stack web applications with a focus on performance, clean architecture, and systems that scale. My work spans frontend product engineering, backend API design, and the infrastructure layer that connects them.
+</p>
+<p>
+Currently leading engineering on a Canadian SaaS marketplace platform — owning frontend (Next.js), backend (Laravel), and deployment infrastructure end to end.
+</p>
 
 <br>
+
+
+<p><strong>What you’ll find here:</strong> Production-grade backend systems, full-stack project work, and the kind of architectural decisions that don’t always make it into the README but probably should.</p>
+
+<br>
+
 <h2>My Highlighted Projects</h2>
-<small>Fullstack + DevOps</small>
-<h5>Multi Tenant Application and Rest API backend</h5>
-<p>Secured a robust, event-driven payment microservices system via a Next.js client application that utilizes API key middleware for resource authorization and tenant isolation, multi-tenancy enforced by unique API key validation, tightly coupled with a high-availability event-driven microservices backend.</p>
+<small>Lead Engineer, full stack contributor and DevOps</small>
+<h5>Multi Tenant Application and Rest API backend (TraderAPIs)</h5>
+
+
+<a target='_blank' href='https://github.com/chinazagideon/trader-apis'>Repository Link: https://github.com/chinazagideon/trader-apis</a>
+
+<p>TraderAPIs is a laravel monolith microservice API backend providing restful api for Brokerage trading, payment processing apis with support for multiple api gateways, loosely coupled backend, system audit, dynamic pricing, notifications, and transaction trackers, designed for high performance and speed, brute force encryption, enterprise grade cache management, event driven backend.</p>
 
 <!-- <img width="3082" height="3042" alt="Mermaid Chart" src="https://github.com/user-attachments/assets/42139206-4c00-4198-9be6-c9aa4a37e135" /> -->
 
@@ -35,17 +40,6 @@
   <code><img height="25" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"></code>
   <code><img height="25" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></code>
 </p>
-
-<br>
-
-<h2>What I'm Currently Building & Exploring</h2>
-<ul>
-  <li>Optimizing backend architectures for performance and scalability.</li>
-  <li>Deep diving into distributed systems and microservices patterns.</li>
-  <li>Exploring financial data security in emerging markets, including AI/ML for fraud detection.</li>
-  <li>Actively contributing to open-source projects for financial inclusion.</li>
-</ul>
-<p>Actively seeking Solution Architect or Principal Engineer roles to apply expertise in fintech, with a focus on African markets and advanced system design.</p>
 
 <br>
 
