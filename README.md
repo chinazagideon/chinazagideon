@@ -3,7 +3,7 @@
  I build full-stack web applications with a focus on performance, clean architecture, and systems that scale. My work spans frontend product engineering, backend API design, and the infrastructure layer that connects them.
 </p>
 <p>
-Currently leading engineering on a Canadian SaaS marketplace platform — owning frontend (Next.js), backend (Laravel), and deployment infrastructure end to end.
+Currently leading engineering on a Canadian SaaS marketplace platform (Smooov), where I make the technical decisions across the entire product — frontend, backend, and infrastructure.
 </p>
 
 <br>
@@ -14,9 +14,9 @@ Currently leading engineering on a Canadian SaaS marketplace platform — owning
 <br>
 
 <h2>My Highlighted Projects</h2>
-<small>Lead Engineer, full stack contributor and DevOps</small>
-<h5>Multi Tenant Application and Rest API backend (TraderAPIs)</h5>
 
+<h3>Laravel Rest API backend (TraderAPIs)</h3>
+<small>Lead Engineer, full stack contributor and DevOps</small>
 
 <a target='_blank' href='https://github.com/chinazagideon/trader-apis'>Repository Link: https://github.com/chinazagideon/trader-apis</a>
 
