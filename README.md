@@ -9,7 +9,7 @@ Currently leading engineering on a Canadian SaaS marketplace platform (Smooov), 
 <br>
 <h2>My Highlighted Projects</h2>
 
-<h3>Broker TraderAPI - </h3>
+<h3>TraderAPI</h3>
 <small>Lead Engineer, full stack contributor and DevOps</small>
 
 <a target='_blank' href='https://github.com/chinazagideon/trader-apis'>Repository Link: https://github.com/chinazagideon/trader-apis</a>
