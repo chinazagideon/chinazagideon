@@ -3,7 +3,7 @@
  I build full-stack web applications with a focus on performance, clean architecture, and systems that scale. My work spans frontend product engineering, backend API design, and the infrastructure layer that connects them.
 </p>
 <p>
-Currently leading engineering on a Canadian SaaS marketplace platform (Smooov), where I make the technical decisions across the entire product frontend, backend, and infrastructure.
+Currently leading engineering on a Canadian SaaS (Smooov.ca) marketplace, where I make the technical decisions across the entire product frontend, backend, and infrastructure.
 </p>
 
 <br>
