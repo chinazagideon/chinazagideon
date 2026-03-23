@@ -7,20 +7,14 @@ Currently leading engineering on a Canadian SaaS marketplace platform (Smooov), 
 </p>
 
 <br>
-
-
-<p><strong>What you’ll find here:</strong> Production-grade backend systems, full-stack project work, and the kind of architectural decisions that don’t always make it into the README but probably should.</p>
-
-<br>
-
 <h2>My Highlighted Projects</h2>
 
-<h3>Laravel Rest API backend (TraderAPIs)</h3>
+<h3>Broker TraderAPI - </h3>
 <small>Lead Engineer, full stack contributor and DevOps</small>
 
 <a target='_blank' href='https://github.com/chinazagideon/trader-apis'>Repository Link: https://github.com/chinazagideon/trader-apis</a>
 
-<p>TraderAPIs is a laravel monolith microservice API backend providing restful api for Brokerage trading, payment processing apis with support for multiple api gateways, loosely coupled backend, system audit, dynamic pricing, notifications, and transaction trackers, designed for high performance and speed, brute force encryption, enterprise grade cache management, event driven backend.</p>
+<p>TraderAPIs is a laravel microservice API for Brokerage trading, funding management with multi payment gateway support, loosely coupled backend, automatic system audit, dynamic pricing, multi channel notifications, and transaction fraud detection trackers, designed for high performance and speed, brute force encryption, enterprise grade cache management and event driven backend.</p>
 
 <!-- <img width="3082" height="3042" alt="Mermaid Chart" src="https://github.com/user-attachments/assets/42139206-4c00-4198-9be6-c9aa4a37e135" /> -->
 
