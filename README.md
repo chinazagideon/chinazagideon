@@ -14,7 +14,7 @@ Currently leading engineering on a Canadian SaaS (Smooov.ca) marketplace, where 
 
 <h3>ConnectHire - Job Portal</h3>
 <h4>ALX Project Nexus - Python Django</h4>
-<a href='https://github.com/chinazagideon/relocation-api' target='_blank'>Repository Link: https://github.com/chinazagideon/trader-apis</a>
+<a href='https://github.com/chinazagideon/alx-project-nexus' target='_blank'>Repository Link: [https://github.com/chinazagideon/trader-apis](https://github.com/chinazagideon/alx-project-nexus)</a>
 
 <p>Connect Hire is a job portal REST API backend system that revolutionizes career development through intelligent matching, real-time features, and comprehensive user management. Built with modern Django architecture.</p>
 
