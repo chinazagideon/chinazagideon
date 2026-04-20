@@ -8,6 +8,15 @@ Currently leading engineering on a Canadian SaaS (Smooov.ca) marketplace, where 
 
 <br>
 <h2>My Highlighted Projects</h2>
+<h3>Smooov Artisans Marketplace (REST API backend)</h3>
+<a href='https://github.com/chinazagideon/relocation-api' target='_blank'>Repository Link: [https://github.com/chinazagideon/relocation-api](https://github.com/chinazagideon/relocation-api)</a>
+<p>Laravel REST API backend for a two-sided SaaS marketplace. Monolithic-core architecture with microservice boundaries, async processing via Swoole, Redis caching, and full Docker deployment. Stripe payments integrated agnostically through an IoC-driven payment module for easy provider swapping. Location boundary enforcement gates onboarding and job requests to supported regions only.</p>
+
+<h3>ConnectHire - Job Portal</h3>
+<h4>ALX Project Nexus - Python Django</h4>
+<a target='_blank'>Repository Link: [https://github.com/chinazagideon/trader-apis](https://github.com/chinazagideon/alx-project-nexus)</a>
+
+<p>Connect Hire is a job portal REST API backend system that revolutionizes career development through intelligent matching, real-time features, and comprehensive user management. Built with modern Django architecture.</p>
 
 <h3>TraderAPI</h3>
 <small>Lead Engineer, full stack contributor and DevOps</small>
