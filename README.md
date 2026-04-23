@@ -3,7 +3,7 @@
  I build full-stack web applications with a focus on performance, clean architecture, and systems that scale. My work spans frontend product engineering, backend API design, and the infrastructure layer that connects them.
 </p>
 <p>
-Currently leading engineering on a Canadian SaaS (Smooov.ca) marketplace, Smooov aims to be the trusted marketplace that digitally connects local verified service providers and Home owners or Senior Citizens, providing manual labour help and assistance, similar to TaskRabbit</p>
+Currently leading engineering on a Canadian SaaS (Smooov.ca) marketplace, which aims to become the marketplace that digitally connects local verified service Providers and Home owners or Senior Citizens, providing manual labour help and assistance, similar to TaskRabbit.</p>
 
 <br>
 <h2>My Highlighted Projects</h2>
