@@ -22,9 +22,9 @@ Currently leading engineering on a Canadian SaaS (Smooov.ca) marketplace, which 
 
 <a target='_blank' href='https://github.com/chinazagideon/trader-apis'>Repository Link: https://github.com/chinazagideon/trader-apis</a>
 
-<p>TraderAPIs is a laravel microservice API for Brokerage trading, funding management with multi payment gateway support, loosely coupled backend, automatic system audit, dynamic pricing, multi channel notifications, and transaction fraud detection trackers, designed for high performance and speed, brute force encryption, enterprise grade cache management and event driven backend.</p>
+<p>TraderAPIs is a modular monolith laravel fintech bankend, designed to handle distinct transaction flows, payment gateway agnoistic, loosely coupled backend, automatic system audit, dynamic pricing, designed for high performance and speed, brute force encryption, enterprise grade cache management and event distributed backend.</p>
 
-<!-- <img width="3082" height="3042" alt="Mermaid Chart" src="https://github.com/user-attachments/assets/42139206-4c00-4198-9be6-c9aa4a37e135" /> -->
+<img width="3082" height="3042" alt="Mermaid Chart" src="https://github.com/user-attachments/assets/42139206-4c00-4198-9be6-c9aa4a37e135" /> 
 
 
 <h2>My Core Tech Stack</h2>
