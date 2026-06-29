@@ -3,26 +3,26 @@
  I build full-stack web applications with a focus on performance, clean architecture, and systems that scale. My work spans frontend product engineering, backend API design, and the infrastructure layer that connects them.
 </p>
 <p>
-Currently leading engineering on a Canadian SaaS (Smooov.ca) marketplace, which aims to become the marketplace that digitally connects local verified service Providers and Home owners or Senior Citizens, providing manual labour help and assistance.</p>
+Currently leading engineering on a Canadian SaaS (Smooov.ca) marketplace, We are building a digital marketplace that connects local verified service providers (i.e Taskers) with locals, home owners, senior Citizens (i.e Clients), providing manual labour help.</p>
 
 <br>
 <h2>My Highlighted Projects</h2>
 <h3>Smooov Artisans Marketplace (REST API backend)</h3>
 <a href='https://github.com/chinazagideon/relocation-api' target='_blank'>Repository Link: https://github.com/chinazagideon/relocation-api</a>
-<p>Laravel REST API backend for a two-sided SaaS marketplace. Monolithic-core architecture with microservice boundaries, async processing via Swoole, Redis caching, and full Docker deployment. Stripe payments integrated agnostically through an IoC-driven payment module for easy provider swapping. Location boundary enforcement gates onboarding and job requests to supported regions only.</p>
+<p>Backend Application for a two-sided SaaS marketplace. Monolithic-core architecture with service boundaries, async processing via Swoole, Redis caching, and full Docker deployment. Stripe payments integrated agnostically through an IoC-driven payment module for easy provider swapping. Location boundary enforcement gates onboarding and job requests to supported regions only.</p>
 
 <h3>ConnectHire - Job Portal</h3>
 <h4>ALX Project Nexus - Python Django</h4>
 <a href='https://github.com/chinazagideon/alx-project-nexus' target='_blank'>Repository Link: https://github.com/chinazagideon/alx-project-nexus</a>
 
-<p>Connect Hire is a job portal REST API backend system that revolutionizes career development through intelligent matching, real-time features, and comprehensive user management. Built with modern Django architecture.</p>
+<p>Connect Hire is a job portal backend system that revolutionizes career development through intelligent matching, real-time features, and comprehensive user management. Built with modern Django architecture.</p>
 
 <h3>TraderAPI</h3>
 <small>Lead Engineer, full stack contributor and DevOps</small>
 
 <a target='_blank' href='https://github.com/chinazagideon/trader-apis'>Repository Link: https://github.com/chinazagideon/trader-apis</a>
 
-<p>TraderAPIs is a modular monolith laravel fintech bankend, designed to handle distinct transaction flows, payment gateway agnoistic, loosely coupled backend, automatic system audit, dynamic pricing, designed for high performance and speed, brute force encryption, enterprise grade cache management and event distributed backend.</p>
+<p>TraderAPIs is a modular monolith fintech bankend, designed to handle distinct transaction flows, payment gateway agnoistic, loosely coupled backend, automatic system audit, dynamic pricing, designed for high performance and speed, brute force encryption, enterprise grade cache management and event distributed backend.</p>
 
 <img width="3082" height="3042" alt="Mermaid Chart" src="https://github.com/user-attachments/assets/42139206-4c00-4198-9be6-c9aa4a37e135" /> 
 
