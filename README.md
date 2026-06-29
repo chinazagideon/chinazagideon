@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Gideon</h1>
 <p>
- I build full-stack web applications with a focus on performance, clean architecture, and systems that scale. My work spans frontend product engineering, backend API design, and the infrastructure layer that connects them.
+ I build full-stack web applications with a focus on performance, clean architecture, and systems that scale. My work spans through frontend product engineering, backend API design, and the infrastructure layer that connects them.
 </p>
 <p>
 Currently leading engineering on a Canadian SaaS (Smooov.ca) marketplace, We are building a digital marketplace that connects local verified service providers (i.e Taskers) with locals, home owners, senior Citizens (i.e Clients), providing manual labour help.</p>
