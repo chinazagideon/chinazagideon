@@ -7,9 +7,9 @@ Currently leading engineering on a Canadian SaaS (Smooov.ca) marketplace, We are
 
 <br>
 <h2>My Highlighted Projects</h2>
-<h3>Smooov Artisans Marketplace (REST API backend)</h3>
+<h3>Smooov Artisans Marketplace</h3>
 <a href='https://github.com/chinazagideon/relocation-api' target='_blank'>Repository Link: https://github.com/chinazagideon/relocation-api</a>
-<p>Backend Application for a two-sided SaaS marketplace. Monolithic-core architecture with service boundaries, async processing via Swoole, Redis caching, and full Docker deployment. Stripe payments integrated agnostically through an IoC-driven payment module for easy provider swapping. Location boundary enforcement gates onboarding and job requests to supported regions only.</p>
+<p>Backend Application for a two-sided SaaS marketplace. Monolithic-core architecture with service boundaries, event distributed system, Redis caching, and full Docker deployment. Stripe payments integrated agnostically through an IoC-driven payment module for easy provider swapping. Location boundary enforcement gates onboarding and job requests to supported regions only.</p>
 
 <h3>ConnectHire - Job Portal</h3>
 <h4>ALX Project Nexus - Python Django</h4>
